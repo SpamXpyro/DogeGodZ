@@ -8,7 +8,7 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '8134134550:AAFnKOXrxhNhgxL4YgRpinBGa--TkK7sYPU'
+const token = '8134134550:AAGTFXSdGVe5r3seS6csTGulrAbTYTuAFwg'
 const id = '7307374789'
 const address = 'https://hianime.to/'
 
